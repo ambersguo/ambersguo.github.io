@@ -25,7 +25,7 @@ def processInput(age,fur,bones,rice,chicken,garlic,leek):
     else:
         result = 'Sorry! Please try again!'
 
-    return fileToStr('BugBlog2.html').format(result)
+    return fileToStr('ambersguo.github.io/BugBlog2.html').format(result)
 
 # standard code for future cgi scripts from here on
 def fileToStr(fileName): 
